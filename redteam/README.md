@@ -24,6 +24,8 @@ O script deve identificar quais pedidos pertencem ao usuário autenticado e quai
 - Script de exploração em `redteam/evidence/`
 - Relatório de ataque preenchido (ver template abaixo)
 
+> Para um passo a passo rápido de execução, veja `redteam/USO.md`
+
 ---
 
 ## Fase 2 — Hardening (Defensive)
